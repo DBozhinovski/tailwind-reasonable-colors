@@ -1,6 +1,6 @@
 {
   "name": "tailwind-reasonable-colors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Tailwind CSS plugin that replaces or enhances the default Tailwind color palette with the reasonable colors palette (https://reasonable.work/colors/)",
   "main": "reasonable-colors.cjs",
   "scripts": {
@@ -9,6 +9,19 @@
   "peerDependencies": {
     "tailwindcss": ">=3.0.0"
   },
-  "author": "Darko Bozhinovski",
-  "license": "MIT"
+  "author": "Darko Bozhinovski <hello@darko.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBozhinovski/tailwind-reasonable-colors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DBozhinovski/tailwind-reasonable-colors/issues"
+  },
+  "homepage": "https://github.com/DBozhinovski/tailwind-reasonable-colors#readme",
+  "keywords": [
+    "tailwindcss",
+    "theme",
+    "reasonable-colors"
+  ]
 }
